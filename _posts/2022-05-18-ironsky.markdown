@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Iron Sky"
-date:   2021-05-18 09:47:28 +0300
+date:   2022-05-18 09:47:28 +0300
 categories: jekyll update
 ---
 *Как причудливо тасуется колода...*
